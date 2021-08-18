@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(237, 219, 255);
+}
+
+h1 {
+    text-shadow: 7px 7px 5px silver, 9px 9px 1px grey;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Arial', 'Calibri', 'Times New Roman';
+    letter-spacing: 1px;
+}
+
+p {
+    font-size: 25px;
+    font-family: cursive;
+    text-indent: 75px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    padding: 5px;
+}
+
+a:hover {
+    background-color: lemonchiffon;
+}
+
+.roda {
+    font-family: serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+
+a {
+    text-decoration: none;
+    font-family: serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
